@@ -1,7 +1,6 @@
 ### Hi there 👋, my name is Romario
 #### I am Telecommunications Engeniering
 
-I am Romario from Peruvian,
 I really enjoy learning  programming languages like Python, Java, JavaScript, SQL and frameworks  like Django, Flask. Also, i have domain in Deep Learning and Data Science with Python.
 
 
