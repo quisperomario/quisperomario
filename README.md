@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Romario
 #### I am Telecommunications Engeniering
 
-I really enjoy learning  programming languages like Python, Java, JavaScript, SQL and frameworks  like Django, Flask. Also, i have domain in Deep Learning and Data Science with Python.
+I really enjoy learning  programming languages like Python, Java, SQL. Also, i have domain in Deep Learning and Data Science with Python.
 
 
 <br/>  
